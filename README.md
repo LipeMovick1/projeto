@@ -18,7 +18,7 @@ Programa   exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="Projeto do Andre" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto do Andre" src=".github/saiba-mais" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O devLinks é um projeto inicial para todos os que querem se tornar programador.
 
 ## 🔖 Layout
 
@@ -44,7 +44,10 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # projeto-andre
+
 # projeto-andre
+
 # projeto
