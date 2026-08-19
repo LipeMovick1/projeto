@@ -1,8 +1,9 @@
 * {
-  margin: 0%;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
-} /* Variavel */
+}
+/* Variaveis */
 :root {
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
@@ -22,16 +23,8 @@
   --switch-bg-url: url(assets/sun.svg);
 }
 body {
-  /*
-  background-image: url(./bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  /*
-
-  /*backgorund:color image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh;
+  min-height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
