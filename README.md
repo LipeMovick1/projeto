@@ -18,7 +18,7 @@ Programa   exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="Projeto do Andre" src=".github/saiba-mais" width="100%">
+  <img alt="Projeto do Andre" src=".github/saiba-mais.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -46,8 +46,4 @@ Esse projeto está sob a licença MIT.
 
 Feito por Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-# projeto-andre
-
-# projeto-andre
-
-# projeto
+## Projeto André
